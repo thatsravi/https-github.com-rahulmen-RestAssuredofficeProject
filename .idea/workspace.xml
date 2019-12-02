@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd02971-113f-47c1-bb4e-897ff671b6bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/getRequest/JacksonDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getRequest/JacksonDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/getRequest/RequestSpecBuilderDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getRequest/RequestSpecBuilderDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/com.learning.restassured.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/getRequest/JacksonDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/getRequest/JacksonDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/getRequest/RequestSpecBuilderDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/getRequest/RequestSpecBuilderDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="0" name="Failed suite [Demo]" parallel="methods">
+  <test name="DemoTest(failed)" parallel="methods">
+    <classes>
+      <class name="DemoTest">
+        <methods>
+          <include name="m2"/>
+        </methods>
+      </class> <!-- DemoTest -->
+    </classes>
+  </test> <!-- DemoTest(failed) -->
+</suite> <!-- Failed suite [Demo] -->
