@@ -3,6 +3,7 @@ package getRequest;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -26,6 +27,9 @@ public class JacksonDemo1 {
 	String jsonOutput = objMapper.writerWithDefaultPrettyPrinter().writeValueAsString(maps);
 	System.out.println(jsonOutput);
 	}
+
+
+
 	
 	
 	

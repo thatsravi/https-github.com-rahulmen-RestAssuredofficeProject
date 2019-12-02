@@ -61,7 +61,7 @@ public class RequestSpecBuilderDemo1 extends java.lang.Object {
 	}
 	
 	
-	@Test(description="With ReqSpecBuilder",priority=2,enabled=false)
+	@Test(description="With ReqSpecBuilder",priority=2)
 	public void test2() {
 		res1=given().spec(reqSpec).when().post().then().extract().response();
 		System.out.println(res1.asString());

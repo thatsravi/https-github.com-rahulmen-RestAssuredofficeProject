@@ -1,0 +1,15 @@
+<suite name ="Demo" parallel = "methods" thread-count="2">
+
+    <test name ="DemoTest">
+
+        <classes>
+            <class name ="DemoTest">
+                <methods>
+                    <include name ="m*"/>
+                </methods>
+            </class>
+        </classes>
+
+    </test>
+
+</suite>

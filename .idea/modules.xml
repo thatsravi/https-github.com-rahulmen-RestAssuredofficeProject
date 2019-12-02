@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.learning.restassured.iml" filepath="$PROJECT_DIR$/com.learning.restassured.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.learning.restassured.iml" filepath="$PROJECT_DIR$/com.learning.restassured.iml" />
     </modules>
   </component>
 </project>
